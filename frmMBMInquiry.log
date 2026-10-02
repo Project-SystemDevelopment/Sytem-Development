@@ -1,0 +1,25 @@
+Line 41: Property TabPicture(0) in SSTab1 had an invalid file reference.
+Line 46: Property TabPicture(1) in SSTab1 had an invalid file reference.
+Line 51: Property TabPicture(2) in SSTab1 had an invalid file reference.
+Line 57: Property TabPicture(3) in SSTab1 had an invalid file reference.
+Line 62: Property TabPicture(4) in SSTab1 had an invalid file reference.
+Line 67: Property TabPicture(5) in SSTab1 had an invalid file reference.
+Line 73: Property TabPicture(6) in SSTab1 had an invalid file reference.
+Line 79: Property TabPicture(7) in SSTab1 had an invalid file reference.
+Line 512: Property  in txtMCOFees could not be loaded.
+Line 530: Property  in txtMBMPremiumEff could not be loaded.
+Line 557: Property  in txtMCOFeesEff could not be loaded.
+Line 575: Property  in txtMBMProviderCharges could not be loaded.
+Line 601: Property  in txtMBMPremium could not be loaded.
+Line 627: Property  in txtMBMPremiumRed could not be loaded.
+Line 654: Property  in txtMBMMCORed could not be loaded.
+Line 696: Property  in txtMBMProviderEffCharges could not be loaded.
+Line 714: Property  in txtMBMProviderRedCharges could not be loaded.
+Line 748: Property  in txtAnnualLimit could not be loaded.
+Line 775: Property  in txtAvailableAnnualLimit could not be loaded.
+Line 940: Property ItemData in cboMBMRenewal had an invalid file reference.
+Line 942: Property List in cboMBMRenewal had an invalid file reference.
+Line 2092: Property  in Label26 could not be loaded.
+Line 2109: Property  in Label7 could not be loaded.
+Line 2143: Property  in Label3 could not be loaded.
+Line 2269: Property  in txtMBMStatus could not be loaded.
