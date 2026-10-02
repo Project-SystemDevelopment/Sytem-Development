@@ -1,0 +1,8 @@
+Line 68: Class MSMask.MaskEdBox of control TxtClmNonPayFr was not a loaded control class.
+Line 90: Class MSMask.MaskEdBox of control TxtClmNonPayTo was not a loaded control class.
+Line 169: Class MSMask.MaskEdBox of control txtGENWPEnd was not a loaded control class.
+Line 192: Class MSMask.MaskEdBox of control txtPREWPEnd was not a loaded control class.
+Line 215: Class MSMask.MaskEdBox of control txtSPEWPEnd was not a loaded control class.
+Line 319: Class MSMask.MaskEdBox of control txtNewPolEffDate was not a loaded control class.
+Line 618: Class MSMask.MaskEdBox of control txtCardSentDate was not a loaded control class.
+Line 640: Class MSMask.MaskEdBox of control txtAlterDate was not a loaded control class.
