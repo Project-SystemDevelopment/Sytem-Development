@@ -1,0 +1,25 @@
+Line 14: Class MSMask.MaskEdBox of control txtBordxDateTo was not a loaded control class.
+Line 94: Class MSComctlLib.ListView of control ListView1 was not a loaded control class.
+Line 165: Class MSMask.MaskEdBox of control txtBordxDateFrom was not a loaded control class.
+Line 20: The property name _ExtentX in txtBordxDateTo is invalid.
+Line 21: The property name _ExtentY in txtBordxDateTo is invalid.
+Line 22: The property name _Version in txtBordxDateTo is invalid.
+Line 23: The property name MaxLength in txtBordxDateTo is invalid.
+Line 24: The property name Mask in txtBordxDateTo is invalid.
+Line 25: The property name PromptChar in txtBordxDateTo is invalid.
+Line 100: The property name _ExtentX in ListView1 is invalid.
+Line 101: The property name _ExtentY in ListView1 is invalid.
+Line 102: The property name View in ListView1 is invalid.
+Line 103: The property name LabelEdit in ListView1 is invalid.
+Line 104: The property name Sorted in ListView1 is invalid.
+Line 105: The property name LabelWrap in ListView1 is invalid.
+Line 106: The property name HideSelection in ListView1 is invalid.
+Line 107: The property name FullRowSelect in ListView1 is invalid.
+Line 108: The property name _Version in ListView1 is invalid.
+Line 113: The property name NumItems in ListView1 is invalid.
+Line 171: The property name _ExtentX in txtBordxDateFrom is invalid.
+Line 172: The property name _ExtentY in txtBordxDateFrom is invalid.
+Line 173: The property name _Version in txtBordxDateFrom is invalid.
+Line 174: The property name MaxLength in txtBordxDateFrom is invalid.
+Line 175: The property name Mask in txtBordxDateFrom is invalid.
+Line 176: The property name PromptChar in txtBordxDateFrom is invalid.

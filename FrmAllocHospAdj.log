@@ -1,0 +1,54 @@
+Line 2: Could not create reference: '{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0'.
+Line 3: Could not create reference: '{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0'.
+Line 56: Class MSMask.MaskEdBox of control txtPVDate1 was not a loaded control class.
+Line 78: Class MSMask.MaskEdBox of control txtPVDate2 was not a loaded control class.
+Line 496: Class MSMask.MaskEdBox of control txtPVDate was not a loaded control class.
+Line 518: Class MSMask.MaskEdBox of control txtChqDate was not a loaded control class.
+Line 836: Class MSComctlLib.ListView of control lstHospAdj was not a loaded control class.
+Line 62: The property name _ExtentX in txtPVDate1 is invalid.
+Line 63: The property name _ExtentY in txtPVDate1 is invalid.
+Line 64: The property name _Version in txtPVDate1 is invalid.
+Line 65: The property name MaxLength in txtPVDate1 is invalid.
+Line 75: The property name Mask in txtPVDate1 is invalid.
+Line 76: The property name PromptChar in txtPVDate1 is invalid.
+Line 84: The property name _ExtentX in txtPVDate2 is invalid.
+Line 85: The property name _ExtentY in txtPVDate2 is invalid.
+Line 86: The property name _Version in txtPVDate2 is invalid.
+Line 87: The property name MaxLength in txtPVDate2 is invalid.
+Line 97: The property name Mask in txtPVDate2 is invalid.
+Line 98: The property name PromptChar in txtPVDate2 is invalid.
+Line 502: The property name _ExtentX in txtPVDate is invalid.
+Line 503: The property name _ExtentY in txtPVDate is invalid.
+Line 504: The property name _Version in txtPVDate is invalid.
+Line 505: The property name MaxLength in txtPVDate is invalid.
+Line 515: The property name Mask in txtPVDate is invalid.
+Line 516: The property name PromptChar in txtPVDate is invalid.
+Line 524: The property name _ExtentX in txtChqDate is invalid.
+Line 525: The property name _ExtentY in txtChqDate is invalid.
+Line 526: The property name _Version in txtChqDate is invalid.
+Line 527: The property name MaxLength in txtChqDate is invalid.
+Line 537: The property name Mask in txtChqDate is invalid.
+Line 538: The property name PromptChar in txtChqDate is invalid.
+Line 842: The property name _ExtentX in lstHospAdj is invalid.
+Line 843: The property name _ExtentY in lstHospAdj is invalid.
+Line 844: The property name View in lstHospAdj is invalid.
+Line 845: The property name LabelEdit in lstHospAdj is invalid.
+Line 846: The property name Sorted in lstHospAdj is invalid.
+Line 847: The property name LabelWrap in lstHospAdj is invalid.
+Line 848: The property name HideSelection in lstHospAdj is invalid.
+Line 849: The property name AllowReorder in lstHospAdj is invalid.
+Line 850: The property name FullRowSelect in lstHospAdj is invalid.
+Line 851: The property name GridLines in lstHospAdj is invalid.
+Line 852: The property name _Version in lstHospAdj is invalid.
+Line 866: The property name NumItems in lstHospAdj is invalid.
+Line 870: The property name ColumnHeader(1) in lstHospAdj is invalid.
+Line 875: The property name ColumnHeader(2) in lstHospAdj is invalid.
+Line 880: The property name ColumnHeader(3) in lstHospAdj is invalid.
+Line 885: The property name ColumnHeader(4) in lstHospAdj is invalid.
+Line 890: The property name ColumnHeader(5) in lstHospAdj is invalid.
+Line 895: The property name ColumnHeader(6) in lstHospAdj is invalid.
+Line 900: The property name ColumnHeader(7) in lstHospAdj is invalid.
+Line 906: The property name ColumnHeader(8) in lstHospAdj is invalid.
+Line 911: The property name ColumnHeader(9) in lstHospAdj is invalid.
+Line 916: The property name ColumnHeader(10) in lstHospAdj is invalid.
+Line 921: The property name ColumnHeader(11) in lstHospAdj is invalid.
