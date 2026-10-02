@@ -1,0 +1,18 @@
+VERSION 5.00
+Begin VB.Form FrmMCOTracking 
+   Caption         =   "MCO Fees Tracking"
+   ClientHeight    =   8595
+   ClientLeft      =   60
+   ClientTop       =   345
+   ClientWidth     =   11880
+   LinkTopic       =   "Form1"
+   MDIChild        =   -1  'True
+   ScaleHeight     =   8595
+   ScaleWidth      =   11880
+   WindowState     =   2  'Maximized
+End
+Attribute VB_Name = "FrmMCOTracking"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
