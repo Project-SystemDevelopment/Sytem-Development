@@ -1,0 +1,210 @@
+Line 16: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 159: Class Crystal.CrystalReport of control cRptExp was not a loaded control class.
+Line 167: Class MSMask.MaskEdBox of control txtExpBordxDate was not a loaded control class.
+Line 180: Class MSMask.MaskEdBox of control txtExpBordxDateFr was not a loaded control class.
+Line 193: Class MSMask.MaskEdBox of control txtExpBordxDateTo was not a loaded control class.
+Line 391: Class MSMask.MaskEdBox of control txtInvBordxDate was not a loaded control class.
+Line 404: Class Crystal.CrystalReport of control cRptInv was not a loaded control class.
+Line 412: Class MSMask.MaskEdBox of control txtInvBordxDateTo was not a loaded control class.
+Line 425: Class MSMask.MaskEdBox of control txtInvBordxDateFr was not a loaded control class.
+Line 612: Class MSMask.MaskEdBox of control txtMCOBordxDate was not a loaded control class.
+Line 625: Class Crystal.CrystalReport of control cRptMCO was not a loaded control class.
+Line 633: Class MSMask.MaskEdBox of control txtMCOBordxDateTo was not a loaded control class.
+Line 646: Class MSMask.MaskEdBox of control txtMCOBordxDateFr was not a loaded control class.
+Line 800: Class MSComctlLib.ListView of control lvwCRD was not a loaded control class.
+Line 919: Class MSComctlLib.ListView of control lvwLeaflet was not a loaded control class.
+Line 993: Class MSComctlLib.ListView of control lvwMCO was not a loaded control class.
+Line 1076: Class MSComctlLib.ListView of control lvwInvoice was not a loaded control class.
+Line 1240: Class Crystal.CrystalReport of control cRptLL was not a loaded control class.
+Line 1248: Class MSMask.MaskEdBox of control txtLLBordxDate was not a loaded control class.
+Line 1262: Class MSMask.MaskEdBox of control txtLLBordxDateFr was not a loaded control class.
+Line 1276: Class MSMask.MaskEdBox of control txtLLBordxDateTo was not a loaded control class.
+Line 22: The property name _ExtentX in SSTab1 is invalid.
+Line 23: The property name _ExtentY in SSTab1 is invalid.
+Line 24: The property name _Version in SSTab1 is invalid.
+Line 25: The property name Tabs in SSTab1 is invalid.
+Line 26: The property name TabsPerRow in SSTab1 is invalid.
+Line 27: The property name TabHeight in SSTab1 is invalid.
+Line 28: The property name TabCaption(0) in SSTab1 is invalid.
+Line 29: The property name TabPicture(0) in SSTab1 is invalid.
+Line 30: The property name Tab(0).ControlEnabled in SSTab1 is invalid.
+Line 31: The property name Tab(0).Control(0) in SSTab1 is invalid.
+Line 32: The property name Tab(0).Control(0).Enabled in SSTab1 is invalid.
+Line 33: The property name Tab(0).Control(1) in SSTab1 is invalid.
+Line 34: The property name Tab(0).Control(1).Enabled in SSTab1 is invalid.
+Line 35: The property name Tab(0).Control(2) in SSTab1 is invalid.
+Line 36: The property name Tab(0).Control(2).Enabled in SSTab1 is invalid.
+Line 37: The property name Tab(0).ControlCount in SSTab1 is invalid.
+Line 38: The property name TabCaption(1) in SSTab1 is invalid.
+Line 39: The property name TabPicture(1) in SSTab1 is invalid.
+Line 40: The property name Tab(1).ControlEnabled in SSTab1 is invalid.
+Line 41: The property name Tab(1).Control(0) in SSTab1 is invalid.
+Line 42: The property name Tab(1).Control(1) in SSTab1 is invalid.
+Line 43: The property name Tab(1).Control(2) in SSTab1 is invalid.
+Line 44: The property name Tab(1).Control(3) in SSTab1 is invalid.
+Line 45: The property name Tab(1).ControlCount in SSTab1 is invalid.
+Line 46: The property name TabCaption(2) in SSTab1 is invalid.
+Line 47: The property name TabPicture(2) in SSTab1 is invalid.
+Line 48: The property name Tab(2).ControlEnabled in SSTab1 is invalid.
+Line 49: The property name Tab(2).Control(0) in SSTab1 is invalid.
+Line 50: The property name Tab(2).Control(1) in SSTab1 is invalid.
+Line 51: The property name Tab(2).Control(2) in SSTab1 is invalid.
+Line 52: The property name Tab(2).Control(3) in SSTab1 is invalid.
+Line 53: The property name Tab(2).Control(4) in SSTab1 is invalid.
+Line 54: The property name Tab(2).Control(5) in SSTab1 is invalid.
+Line 55: The property name Tab(2).Control(6) in SSTab1 is invalid.
+Line 56: The property name Tab(2).ControlCount in SSTab1 is invalid.
+Line 57: The property name TabCaption(3) in SSTab1 is invalid.
+Line 58: The property name TabPicture(3) in SSTab1 is invalid.
+Line 59: The property name Tab(3).ControlEnabled in SSTab1 is invalid.
+Line 60: The property name Tab(3).Control(0) in SSTab1 is invalid.
+Line 61: The property name Tab(3).Control(1) in SSTab1 is invalid.
+Line 62: The property name Tab(3).Control(2) in SSTab1 is invalid.
+Line 63: The property name Tab(3).Control(3) in SSTab1 is invalid.
+Line 64: The property name Tab(3).ControlCount in SSTab1 is invalid.
+Line 162: The property name _ExtentX in cRptExp is invalid.
+Line 163: The property name _ExtentY in cRptExp is invalid.
+Line 164: The property name _Version in cRptExp is invalid.
+Line 165: The property name PrintFileLinesPerPage in cRptExp is invalid.
+Line 173: The property name _ExtentX in txtExpBordxDate is invalid.
+Line 174: The property name _ExtentY in txtExpBordxDate is invalid.
+Line 175: The property name _Version in txtExpBordxDate is invalid.
+Line 176: The property name MaxLength in txtExpBordxDate is invalid.
+Line 177: The property name Mask in txtExpBordxDate is invalid.
+Line 178: The property name PromptChar in txtExpBordxDate is invalid.
+Line 186: The property name _ExtentX in txtExpBordxDateFr is invalid.
+Line 187: The property name _ExtentY in txtExpBordxDateFr is invalid.
+Line 188: The property name _Version in txtExpBordxDateFr is invalid.
+Line 189: The property name MaxLength in txtExpBordxDateFr is invalid.
+Line 190: The property name Mask in txtExpBordxDateFr is invalid.
+Line 191: The property name PromptChar in txtExpBordxDateFr is invalid.
+Line 199: The property name _ExtentX in txtExpBordxDateTo is invalid.
+Line 200: The property name _ExtentY in txtExpBordxDateTo is invalid.
+Line 201: The property name _Version in txtExpBordxDateTo is invalid.
+Line 202: The property name MaxLength in txtExpBordxDateTo is invalid.
+Line 203: The property name Mask in txtExpBordxDateTo is invalid.
+Line 204: The property name PromptChar in txtExpBordxDateTo is invalid.
+Line 397: The property name _ExtentX in txtInvBordxDate is invalid.
+Line 398: The property name _ExtentY in txtInvBordxDate is invalid.
+Line 399: The property name _Version in txtInvBordxDate is invalid.
+Line 400: The property name MaxLength in txtInvBordxDate is invalid.
+Line 401: The property name Mask in txtInvBordxDate is invalid.
+Line 402: The property name PromptChar in txtInvBordxDate is invalid.
+Line 407: The property name _ExtentX in cRptInv is invalid.
+Line 408: The property name _ExtentY in cRptInv is invalid.
+Line 409: The property name _Version in cRptInv is invalid.
+Line 410: The property name PrintFileLinesPerPage in cRptInv is invalid.
+Line 418: The property name _ExtentX in txtInvBordxDateTo is invalid.
+Line 419: The property name _ExtentY in txtInvBordxDateTo is invalid.
+Line 420: The property name _Version in txtInvBordxDateTo is invalid.
+Line 421: The property name MaxLength in txtInvBordxDateTo is invalid.
+Line 422: The property name Mask in txtInvBordxDateTo is invalid.
+Line 423: The property name PromptChar in txtInvBordxDateTo is invalid.
+Line 431: The property name _ExtentX in txtInvBordxDateFr is invalid.
+Line 432: The property name _ExtentY in txtInvBordxDateFr is invalid.
+Line 433: The property name _Version in txtInvBordxDateFr is invalid.
+Line 434: The property name MaxLength in txtInvBordxDateFr is invalid.
+Line 435: The property name Mask in txtInvBordxDateFr is invalid.
+Line 436: The property name PromptChar in txtInvBordxDateFr is invalid.
+Line 618: The property name _ExtentX in txtMCOBordxDate is invalid.
+Line 619: The property name _ExtentY in txtMCOBordxDate is invalid.
+Line 620: The property name _Version in txtMCOBordxDate is invalid.
+Line 621: The property name MaxLength in txtMCOBordxDate is invalid.
+Line 622: The property name Mask in txtMCOBordxDate is invalid.
+Line 623: The property name PromptChar in txtMCOBordxDate is invalid.
+Line 628: The property name _ExtentX in cRptMCO is invalid.
+Line 629: The property name _ExtentY in cRptMCO is invalid.
+Line 630: The property name _Version in cRptMCO is invalid.
+Line 631: The property name PrintFileLinesPerPage in cRptMCO is invalid.
+Line 639: The property name _ExtentX in txtMCOBordxDateTo is invalid.
+Line 640: The property name _ExtentY in txtMCOBordxDateTo is invalid.
+Line 641: The property name _Version in txtMCOBordxDateTo is invalid.
+Line 642: The property name MaxLength in txtMCOBordxDateTo is invalid.
+Line 643: The property name Mask in txtMCOBordxDateTo is invalid.
+Line 644: The property name PromptChar in txtMCOBordxDateTo is invalid.
+Line 652: The property name _ExtentX in txtMCOBordxDateFr is invalid.
+Line 653: The property name _ExtentY in txtMCOBordxDateFr is invalid.
+Line 654: The property name _Version in txtMCOBordxDateFr is invalid.
+Line 655: The property name MaxLength in txtMCOBordxDateFr is invalid.
+Line 656: The property name Mask in txtMCOBordxDateFr is invalid.
+Line 657: The property name PromptChar in txtMCOBordxDateFr is invalid.
+Line 806: The property name _ExtentX in lvwCRD is invalid.
+Line 807: The property name _ExtentY in lvwCRD is invalid.
+Line 808: The property name View in lvwCRD is invalid.
+Line 809: The property name LabelWrap in lvwCRD is invalid.
+Line 810: The property name HideSelection in lvwCRD is invalid.
+Line 811: The property name _Version in lvwCRD is invalid.
+Line 816: The property name NumItems in lvwCRD is invalid.
+Line 820: The property name ColumnHeader(1) in lvwCRD is invalid.
+Line 825: The property name ColumnHeader(2) in lvwCRD is invalid.
+Line 830: The property name ColumnHeader(3) in lvwCRD is invalid.
+Line 835: The property name ColumnHeader(4) in lvwCRD is invalid.
+Line 840: The property name ColumnHeader(5) in lvwCRD is invalid.
+Line 845: The property name ColumnHeader(6) in lvwCRD is invalid.
+Line 850: The property name ColumnHeader(7) in lvwCRD is invalid.
+Line 855: The property name ColumnHeader(8) in lvwCRD is invalid.
+Line 859: The property name ColumnHeader(9) in lvwCRD is invalid.
+Line 925: The property name _ExtentX in lvwLeaflet is invalid.
+Line 926: The property name _ExtentY in lvwLeaflet is invalid.
+Line 927: The property name View in lvwLeaflet is invalid.
+Line 928: The property name LabelWrap in lvwLeaflet is invalid.
+Line 929: The property name HideSelection in lvwLeaflet is invalid.
+Line 930: The property name _Version in lvwLeaflet is invalid.
+Line 935: The property name NumItems in lvwLeaflet is invalid.
+Line 939: The property name ColumnHeader(1) in lvwLeaflet is invalid.
+Line 944: The property name ColumnHeader(2) in lvwLeaflet is invalid.
+Line 949: The property name ColumnHeader(3) in lvwLeaflet is invalid.
+Line 954: The property name ColumnHeader(4) in lvwLeaflet is invalid.
+Line 959: The property name ColumnHeader(5) in lvwLeaflet is invalid.
+Line 964: The property name ColumnHeader(6) in lvwLeaflet is invalid.
+Line 969: The property name ColumnHeader(7) in lvwLeaflet is invalid.
+Line 974: The property name ColumnHeader(8) in lvwLeaflet is invalid.
+Line 999: The property name _ExtentX in lvwMCO is invalid.
+Line 1000: The property name _ExtentY in lvwMCO is invalid.
+Line 1001: The property name View in lvwMCO is invalid.
+Line 1002: The property name LabelWrap in lvwMCO is invalid.
+Line 1003: The property name HideSelection in lvwMCO is invalid.
+Line 1004: The property name _Version in lvwMCO is invalid.
+Line 1009: The property name NumItems in lvwMCO is invalid.
+Line 1013: The property name ColumnHeader(1) in lvwMCO is invalid.
+Line 1018: The property name ColumnHeader(2) in lvwMCO is invalid.
+Line 1023: The property name ColumnHeader(3) in lvwMCO is invalid.
+Line 1028: The property name ColumnHeader(4) in lvwMCO is invalid.
+Line 1033: The property name ColumnHeader(5) in lvwMCO is invalid.
+Line 1038: The property name ColumnHeader(6) in lvwMCO is invalid.
+Line 1043: The property name ColumnHeader(7) in lvwMCO is invalid.
+Line 1048: The property name ColumnHeader(8) in lvwMCO is invalid.
+Line 1082: The property name _ExtentX in lvwInvoice is invalid.
+Line 1083: The property name _ExtentY in lvwInvoice is invalid.
+Line 1084: The property name View in lvwInvoice is invalid.
+Line 1085: The property name LabelWrap in lvwInvoice is invalid.
+Line 1086: The property name HideSelection in lvwInvoice is invalid.
+Line 1087: The property name _Version in lvwInvoice is invalid.
+Line 1092: The property name NumItems in lvwInvoice is invalid.
+Line 1096: The property name ColumnHeader(1) in lvwInvoice is invalid.
+Line 1101: The property name ColumnHeader(2) in lvwInvoice is invalid.
+Line 1106: The property name ColumnHeader(3) in lvwInvoice is invalid.
+Line 1111: The property name ColumnHeader(4) in lvwInvoice is invalid.
+Line 1116: The property name ColumnHeader(5) in lvwInvoice is invalid.
+Line 1243: The property name _ExtentX in cRptLL is invalid.
+Line 1244: The property name _ExtentY in cRptLL is invalid.
+Line 1245: The property name _Version in cRptLL is invalid.
+Line 1246: The property name PrintFileLinesPerPage in cRptLL is invalid.
+Line 1255: The property name _ExtentX in txtLLBordxDate is invalid.
+Line 1256: The property name _ExtentY in txtLLBordxDate is invalid.
+Line 1257: The property name _Version in txtLLBordxDate is invalid.
+Line 1258: The property name MaxLength in txtLLBordxDate is invalid.
+Line 1259: The property name Mask in txtLLBordxDate is invalid.
+Line 1260: The property name PromptChar in txtLLBordxDate is invalid.
+Line 1269: The property name _ExtentX in txtLLBordxDateFr is invalid.
+Line 1270: The property name _ExtentY in txtLLBordxDateFr is invalid.
+Line 1271: The property name _Version in txtLLBordxDateFr is invalid.
+Line 1272: The property name MaxLength in txtLLBordxDateFr is invalid.
+Line 1273: The property name Mask in txtLLBordxDateFr is invalid.
+Line 1274: The property name PromptChar in txtLLBordxDateFr is invalid.
+Line 1283: The property name _ExtentX in txtLLBordxDateTo is invalid.
+Line 1284: The property name _ExtentY in txtLLBordxDateTo is invalid.
+Line 1285: The property name _Version in txtLLBordxDateTo is invalid.
+Line 1286: The property name MaxLength in txtLLBordxDateTo is invalid.
+Line 1287: The property name Mask in txtLLBordxDateTo is invalid.
+Line 1288: The property name PromptChar in txtLLBordxDateTo is invalid.
